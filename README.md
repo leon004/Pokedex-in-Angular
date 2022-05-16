@@ -26,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # Pokedex-in-Angular
+
+## Development process
+
+You can see all the  [Developmente Process](https://www.youtube.com/playlist?list=PLVnW_lt8zVm0lblpRsrwA7UvvTYzwjL6v)  which includes an explanation in spanish
